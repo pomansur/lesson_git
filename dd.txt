@@ -2,3 +2,4 @@
 
 
 echo "Master";
+echo "Help";
